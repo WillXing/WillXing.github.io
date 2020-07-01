@@ -1,6 +1,6 @@
 # If statement in golang
 
-The `if` can assign new variable in the statement in [[Go_(programming_language)]]
+The `if` can assign new variable in the statement in Go
 
 Like this:
 
@@ -25,4 +25,6 @@ if result := list[0]; result > 0 {
 }
 ```
 
-And can only use `:=` to assign value here, because `if` initializer not support to use `var`.
+1. can only use `:=` to assign value here, because `if` initializer not support to use `var`.
+
+2. can only access variable inside the block of `if` and it's `else`

@@ -8,9 +8,8 @@
 
 ### language learning
 
-#### go
-
-- [[golang-if]]
+- Go
+  - [[golang-if]]
 
 ## Random notes
 
