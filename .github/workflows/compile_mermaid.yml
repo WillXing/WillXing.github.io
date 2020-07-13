@@ -40,7 +40,7 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: Add compiled mermaid
         title: 'New mermaid files compiled'
-        labels: automated pr
+        labels: mermaid
         assignees: WillXing
         reviewers: WillXing
     - name: Check outputs

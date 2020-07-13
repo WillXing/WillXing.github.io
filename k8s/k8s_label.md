@@ -1,0 +1,28 @@
+# Kubernetes Label
+
+## Equal Selector
+
+`==` or `!=` are the equal type selector
+
+- For CLI command: `kubectl get pods -l environment=production`
+- For API: `?labelSelector=environment%3Dproduction`
+- For YAML: 
+  ```yaml
+  selector:
+    environment: production
+  ```
+
+## Set Selector
+
+Keyword `in`
+
+- For CLI command: `kubectl get pods -l 'environment in (production, qa)`
+- For API: `?labelSelector=environment+in+%28production%2Cqa%29`
+- For YAML: 
+  ```yaml
+  selector:
+    matchExpressions:
+      - {key: environment, operator: In, values: [production, qa]}
+  ```
+
+Note, the set selector in config file now only support by some relatively new resources: `Job`, `Deployment`, `Replica Set`, `Daemon Set`
