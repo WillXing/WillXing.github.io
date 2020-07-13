@@ -18,7 +18,7 @@ When read volatile variable also will always read from main memory.
 
 ```mermaid
 graph TD;
-  A(Thread A change volatile variable) -->|Write to| B[Main Memory];
+  A(Thread A write volatile variable) -->|Write to| B[Main Memory];
   B -->|Read by| C(Thread B read volatile variable)
 ```
 
