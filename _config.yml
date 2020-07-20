@@ -21,6 +21,8 @@ paginate: 5
 
 collections_dir: all_collections
 collections:
+  category:
+    output: true
   posts:
     output: true
   projects:

@@ -2,6 +2,7 @@
 layout: post
 title:  "Signed int"
 author: "Will Xing"
+date: 2020-07-13T00:00:00Z
 ---
 
 Signed int represent both negative and positive numbers.
