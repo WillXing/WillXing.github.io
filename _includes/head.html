@@ -5,6 +5,7 @@
   <title>{{site.title}} | {{page.title}}</title>
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/mark.css" />
   <link rel="stylesheet" href="{{site.baseurl}}/assets/css/custom.css" />
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <!-- PILL JS LOADER SYLE -->
   <style>
     #indicator {
@@ -23,6 +24,7 @@
     }
 
     @keyframes blink {
+
       from,
       to {
         background-color: #72b6b5;
@@ -49,4 +51,16 @@
       window.open(url, "_blank");
     }
   </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121635539-6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "UA-121635539-6");
+  </script>
+  {% seo %}
 </head>
