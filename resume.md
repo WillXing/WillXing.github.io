@@ -46,69 +46,45 @@ Full-stack software developer with 7 years practical experience; Solid skills an
 
 ## Skills
 
-<p style="display: flex;justify-content: space-around;">
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+<p class="skill-set">
+  <i class="skill">
       <img src="https://img.icons8.com/color/50/000000/react-native.png"/>React.js
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>C#
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/docker.png"/>Docker
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+</p>
+<p class="skill-set">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>Kubernetes
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/>AWS
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/jenkins.png"/>CI/CD
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/linux.png"/>Linux
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+</p>
+<p class="skill-set">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/test-partial-passed.png"/>TDD
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/teamwork.png"/>Agile
   </i>
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
   <img src="https://img.icons8.com/color/50/000000/github--v1.png"/>Git
   </i>
-
-</p>
-
-<p style="display: flex;justify-content: space-around;">
-  <i style="display: flex;
-      align-items: center;
-      flex-direction: column;">
+  <i class="skill">
       <img src="https://img.icons8.com/color/50/000000/learning.png"/>...
   </i>
 </p>
@@ -135,3 +111,29 @@ Full-stack software developer with 7 years practical experience; Solid skills an
 
 [My Linkedin](https://www.linkedin.com/in/xnhuang/)
 [My Github](https://github.com/WillXing)
+
+<style>
+  @media print
+  {
+    nav {
+      display: none;
+    }
+    main {
+      margin: 50px 10px;
+    }
+    .author-bio img {
+      width: 100px !important;
+    }
+  }
+  
+  .skill-set {
+    display: flex;
+    justify-content: space-around;
+  }
+  .skill {
+    display: flex;
+    align-items: center;
+    width: 5rem;
+    flex-direction: column;
+  }
+</style>
