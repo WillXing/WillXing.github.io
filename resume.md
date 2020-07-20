@@ -109,13 +109,15 @@ Full-stack software developer with 7 years practical experience; Solid skills an
     justify-content: space-between;
 ">Geographic Information System <i>Bachelor of Science (B.S.)</i></p>
 
-[My Linkedin](https://www.linkedin.com/in/xnhuang/)
-[My Github](https://github.com/WillXing)
+<p class="social-set">
+  <a href="https://www.linkedin.com/in/xnhuang/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+  <a href="https://github.com/WillXing"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+</p>
 
 <style>
   @media print
   {
-    nav {
+    nav, footer, .social-set {
       display: none;
     }
     main {
@@ -125,7 +127,7 @@ Full-stack software developer with 7 years practical experience; Solid skills an
       width: 100px !important;
     }
   }
-  
+
   .skill-set {
     display: flex;
     justify-content: space-around;
@@ -135,5 +137,8 @@ Full-stack software developer with 7 years practical experience; Solid skills an
     align-items: center;
     width: 5rem;
     flex-direction: column;
+  }
+  .social-set {
+    font-size: 30px;
   }
 </style>
