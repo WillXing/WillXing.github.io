@@ -3,7 +3,8 @@ layout: post
 title:  "Spider assistant to find a job (Heroku + Puppeteer)"
 author: "Will Xing"
 categories:
-   - go
+   - javascript
+   - blog
 date: 2019-07-09T00:00:00Z
 ---
 

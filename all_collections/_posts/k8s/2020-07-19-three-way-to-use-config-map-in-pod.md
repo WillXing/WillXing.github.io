@@ -4,6 +4,7 @@ title:  "3 ways to use configMap in Pod"
 author: "Will Xing"
 categories:
   - kubernetes
+  - blog
 date: 2020-07-19T00:00:00Z
 ---
 

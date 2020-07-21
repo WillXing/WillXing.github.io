@@ -3,6 +3,8 @@ list:
     url: ""
   - title: Résumé
     url: resume
+  - title: Categories
+    url: categories
   - title: Feed
     url: feed.xml
     target: "_blank"

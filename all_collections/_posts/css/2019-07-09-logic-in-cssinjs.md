@@ -3,7 +3,8 @@ layout: post
 title:  "Don't be afraid to put logic in CSSinJS"
 author: "Will Xing"
 categories:
-   - go
+   - css
+   - blog
 date: 2019-07-09T00:00:00Z
 ---
 

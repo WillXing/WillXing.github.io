@@ -7,7 +7,7 @@
   <div id="page">
     <style>
       .title {
-        padding: 10%;
+        padding: 4%;
         color: #101417;
         font-size: 18px;
         font-weight: bold;
@@ -17,9 +17,13 @@
       }
 
       .meta {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
         font-weight: normal;
         text-transform: uppercase;
+      }
+
+      .categories {
+        font-size: 0.7rem;
       }
     </style>
     <!-- header -->
@@ -29,7 +33,9 @@
     <!-- page content -->
     <main class="content">
       <p class="title">
-        {{page.title}} <span class="meta">Written By {{page.author}}</span>
+        {{page.title}}
+        <span class="meta">Written By {{page.author}}</span>
+        <span class="meta categories">Categories: <i>{{page.categories | join: ', '}}</i></span>
       </p>
       {{content}}
     </main>
