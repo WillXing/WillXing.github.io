@@ -48,44 +48,44 @@ Full-stack software developer with 7 years practical experience; Solid skills an
 
 <p class="skill-set">
   <i class="skill">
-      <img src="https://img.icons8.com/color/50/000000/react-native.png"/>React.js
+    <img src="https://img.icons8.com/color/50/000000/react-native.png"/>React.js
   </i>
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>C#
+    <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>C#
   </i>
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java
+    <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java
   </i>
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/docker.png"/>Docker
-  </i>
-</p>
-<p class="skill-set">
-  <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>Kubernetes
-  </i>
-  <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/>AWS
-  </i>
-  <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/jenkins.png"/>CI/CD
-  </i>
-  <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/linux.png"/>Linux
+    <img src="https://img.icons8.com/color/50/000000/docker.png"/>Docker
   </i>
 </p>
 <p class="skill-set">
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/test-partial-passed.png"/>TDD
+    <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>Kubernetes
   </i>
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/teamwork.png"/>Agile
+    <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/>AWS
   </i>
   <i class="skill">
-  <img src="https://img.icons8.com/color/50/000000/github--v1.png"/>Git
+    <img src="https://img.icons8.com/color/50/000000/jenkins.png"/>CI/CD
   </i>
   <i class="skill">
-      <img src="https://img.icons8.com/color/50/000000/learning.png"/>...
+    <img src="https://img.icons8.com/color/50/000000/linux.png"/>Linux
+  </i>
+</p>
+<p class="skill-set">
+  <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/test-partial-passed.png"/>TDD
+  </i>
+  <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/teamwork.png"/>Agile
+  </i>
+  <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/github--v1.png"/>Git
+  </i>
+  <i class="skill">
+    <img src="https://img.icons8.com/bubbles/50/000000/literature.png"/>...
   </i>
 </p>
 

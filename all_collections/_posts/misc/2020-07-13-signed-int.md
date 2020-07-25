@@ -2,6 +2,8 @@
 layout: post
 title:  "Signed int"
 author: "Will Xing"
+categories:
+  - blog
 date: 2020-07-13T00:00:00Z
 ---
 
