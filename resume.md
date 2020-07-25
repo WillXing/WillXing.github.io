@@ -9,9 +9,18 @@ short_bio: Software Developer
 <p style="
     display: flex;
     justify-content: space-between;
-"><i><i class="fa fa-map-marker" aria-hidden="true"></i> Auckland, New Zealand</i><i><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:will.xing@outlook.com">will.xing@outlook.com</a></i></p>
+">
+  <i><i class="fa fa-map-marker" aria-hidden="true"></i> Auckland, New Zealand</i>
+  <i style="
+    display: flex;
+    flex-direction: column;
+">
+    <i><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:will.xing@outlook.com">will.xing@outlook.com</a></i>
+    <i><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:0210719643">021-071-9643</a></i>
+  </i>
+</p>
 
-Full-stack software developer with 7 years practical experience; Solid skills and hand-on build infrastructure, develop projects from end to end; A fast learner that is able to adapt and deliver value in a short time; Very collaborative team player with the can-do attitude and good communication; Good understanding of agile, TDD and DevOps, familiar about building and working with containerized projects.
+7 years experienced full-stack software developer; Solid skills on infrastructure building, service/application developing from end to end; Demonstrated fast learner able to adapt and deliver value with different stack; Collaborative team player with the can-do attitude and good communication skills; Good understanding of agile, TDD and DevOps.
 
 ## Experience
 
@@ -19,30 +28,40 @@ Full-stack software developer with 7 years practical experience; Solid skills an
     display: flex;
     justify-content: space-between;
 "><span>MYOB</span><i>2018 - present</i></h4>
-- Play a full stack developer role in the team, develop web applications from end to end.
-- Help the team to build infrastructure and CI/CD to initiate new projects.
-- Work on business as usual tasks, help customer or external teams to resolve problems with application or API.
-- Help QA build E2E test projects for products and transfer knowledge.
-- Work closely with BA and UX, clarify design and analysis the business requirement.
-- Work with the team design and propose new projects.
-- Participant in the mentor project, actively mentoring teams internal members and external.
+- Develop applications from end to end with <b class="highlight-inline">React.js</b>/<b class="highlight-inline">C#</b>.
+- Use <b class="highlight-inline">AWS</b> build and maintain the infrastructure of projects.
+- Deploy and maintain application with <b class="highlight-inline">Kubernetes</b>.
+- Build <b class="highlight-inline">E2E</b> test projects and collaborate with QA to create test cases.
+- Follow <b class="highlight-inline">TDD</b> practice, <b class="highlight-inline">unit testing</b> features.
+- Practice <b class="highlight-inline">infrastructure/pipeline as code</b> in projects.
+- Design and build <b class="highlight-inline">event-driven architecture</b> project.
+- Participate and contribute to <b class="highlight-inline">system design</b> decision.
+- Understand the <b class="highlight-inline">customer-oriented</b> requirement and help decision making.
+- Work on <b class="highlight-inline">business as usual</b> tasks, help internal/external customer resolve technical problems.
+- Create <b class="highlight-inline">automation tools</b> with <b class="highlight-inline">Python</b>/<b class="highlight-inline">JavaScript</b> to help BAU tasks.
+- Participant in the <b class="highlight-inline">mentor</b> project, actively knowledge transferring to teams internal members and external.
 
 <h4 style="
     display: flex;
     justify-content: space-between;
 "><span>ThoughtWorks</span><i>2015 - 2018</i></h4>
-- Work for different projects, across different domains and tech stacks.
-- Demonstrate to be a fast learner, learn things fast and deliver with good quality and speed during the rotation between projects.
-- Participant in the sponsorship project and actively practised the skill of coaching.
+- As an outsourcing company, I got chances to work on different projects and stacks.
+- Working on Australia big financial group’s project, building web application with <b class="highlight-inline">Java Springboot</b> and <b class="highlight-inline">AngularJS</b>.
+- Build release information board with <b class="highlight-inline">React.js</b>.
+- Working on Chinese Bank company project build an Android application with <b class="highlight-inline">Java</b>.
+- Working on Chinese hotel company project with <b class="highlight-inline">Java</b>, <b class="highlight-inline">Angular</b> and <b class="highlight-inline">Vue.js</b>.
+- Participant in the sponsorship (<b class="highlight-inline">mentoring</b>) project and actively practised the skill of coaching.
 
 
 <h4 style="
     display: flex;
     justify-content: space-between;
 "><span>Ubisoft</span><i>2013 - 2015</i></h4>
-- The first job in my career, including internship.
-- Work on a business intelligence project, develop dynamic web dashboard applications.
-- Build data ETL with HDFS to maintain and provide the data analysis on big data scale.
+- Work on a <b class="highlight-inline">business intelligence</b> project
+- Develop dynamic web dashboard applications with <b class="highlight-inline">jQuery</b> and <b class="highlight-inline">PHP</b>.
+- Use <b class="highlight-inline">Scala</b> to build streaming processing pipe on <b class="highlight-inline">Spark</b>.
+- Create ETL process with <b class="highlight-inline">Kettle tool</b>, <b class="highlight-inline">Python</b> and <b class="highlight-inline">SQL</b> statement.
+- Get data from <b class="highlight-inline">Kafka</b> and store with <b class="highlight-inline">Hadoop HDFS</b>.
 
 ## Skills
 
@@ -89,14 +108,6 @@ Full-stack software developer with 7 years practical experience; Solid skills an
   </i>
 </p>
 
-<!--
-<p style="display: flex;
-    align-items: center;">
-  <img src="https://img.icons8.com/color/50/000000/react-native.png"/> React.js
-  <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/> C#
-  <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/> Java
-</p>-->
-
 ## Education
 
 <h4 style="
@@ -108,6 +119,18 @@ Full-stack software developer with 7 years practical experience; Solid skills an
     display: flex;
     justify-content: space-between;
 ">Geographic Information System <i>Bachelor of Science (B.S.)</i></p>
+
+## Certifications
+
+- <p style="
+    display: flex;
+    justify-content: space-between;
+"><a href="https://coursera.org/share/e62af85052f4e0ce03d93a564cb060b0" target="_blank">Machine Learning Course Certificate</a> <i>Coursera</i></p>
+
+- <p style="
+    display: flex;
+    justify-content: space-between;
+"><a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/b53282af-7557-4564-954d-901a75ffea4e-xing-huang-certified-kubernetes-application-developer-ckad-certificate.pdf" target="_blank">Certified Kubernetes Application Developer (CKAD)</a> <i>The Linux Foundation</i></p>
 
 <p class="social-set">
   <a href="https://www.linkedin.com/in/xnhuang/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
@@ -124,7 +147,7 @@ Full-stack software developer with 7 years practical experience; Solid skills an
       margin: 50px 10px;
     }
     .author-bio img {
-      width: 100px !important;
+      display: none;
     }
   }
 
@@ -140,5 +163,8 @@ Full-stack software developer with 7 years practical experience; Solid skills an
   }
   .social-set {
     font-size: 30px;
+  }
+  .highlight-inline {
+    color: darkseagreen;
   }
 </style>
