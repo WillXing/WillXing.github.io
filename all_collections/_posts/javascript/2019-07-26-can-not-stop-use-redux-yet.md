@@ -5,7 +5,7 @@ author: "Will Xing"
 categories:
    - javascript
    - blog
-date: 2019-07-26T00:00:00Z
+date: 2020-07-26T00:00:00Z
 ---
 
 Read an article about [stop use redux](https://dev.to/g_abud/why-i-quit-redux-1knl) recently, it's a good article to read, however I don't agree with a bit from it.
