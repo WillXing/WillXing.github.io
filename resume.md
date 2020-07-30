@@ -28,7 +28,7 @@ short_bio: Software Developer
     display: flex;
     justify-content: space-between;
 "><span>MYOB</span><i>2018 - present</i></h4>
-- Develop applications from end to end with <b class="highlight-inline">React.js</b>/<b class="highlight-inline">C#</b>.
+- Develop applications from end to end with <b class="highlight-inline">React.js</b>+<b class="highlight-inline">Redux</b>/<b class="highlight-inline">C#</b>.
 - Use <b class="highlight-inline">AWS</b> build and maintain the infrastructure of projects.
 - Deploy and maintain application with <b class="highlight-inline">Kubernetes</b>.
 - Build <b class="highlight-inline">E2E</b> test projects and collaborate with QA to create test cases.
@@ -38,7 +38,7 @@ short_bio: Software Developer
 - Participate and contribute to <b class="highlight-inline">system design</b> decision.
 - Understand the <b class="highlight-inline">customer-oriented</b> requirement and help decision making.
 - Work on <b class="highlight-inline">business as usual</b> tasks, help internal/external customer resolve technical problems.
-- Create <b class="highlight-inline">automation tools</b> with <b class="highlight-inline">Python</b>/<b class="highlight-inline">JavaScript</b> to help BAU tasks.
+- Create <b class="highlight-inline">automation tools</b> with <b class="highlight-inline">Python</b>/<b class="highlight-inline">Node.js</b> to help BAU tasks.
 - Participant in the <b class="highlight-inline">mentor</b> project, actively knowledge transferring to teams internal members and external.
 
 <h4 style="
@@ -70,16 +70,22 @@ short_bio: Software Developer
     <img src="https://img.icons8.com/color/50/000000/react-native.png"/>React.js
   </i>
   <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/redux.png"/>Redux
+  </i>
+  <i class="skill">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>Node.js
+  </i>
+  <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>C#
   </i>
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png"/>Java
   </i>
+</p>
+<p class="skill-set">
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/docker.png"/>Docker
   </i>
-</p>
-<p class="skill-set">
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>Kubernetes
   </i>
@@ -87,13 +93,19 @@ short_bio: Software Developer
     <img src="https://img.icons8.com/color/50/000000/amazon-s3.png"/>AWS
   </i>
   <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/html-5.png"/>HTML
+  </i>
+  <i class="skill">
+    <img src="https://img.icons8.com/color/50/000000/css3.png"/>CSS
+  </i>
+</p>
+<p class="skill-set">
+  <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/jenkins.png"/>CI/CD
   </i>
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/linux.png"/>Linux
   </i>
-</p>
-<p class="skill-set">
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/test-partial-passed.png"/>TDD
   </i>
@@ -102,9 +114,6 @@ short_bio: Software Developer
   </i>
   <i class="skill">
     <img src="https://img.icons8.com/color/50/000000/github--v1.png"/>Git
-  </i>
-  <i class="skill">
-    <img src="https://img.icons8.com/bubbles/50/000000/literature.png"/>...
   </i>
 </p>
 
