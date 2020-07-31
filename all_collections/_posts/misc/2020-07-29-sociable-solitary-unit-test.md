@@ -7,7 +7,7 @@ categories:
 date: 2020-07-29T00:00:00Z
 ---
 
-Most developers nowadays are doing TDD, as for me, I have been doing TDD for years. Also I've been TDD with different people and heard about different thoughts about test.
+Most developers nowadays are doing [test driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD), as for me, I have been doing TDD for years. Also I've been TDD with different people and heard about different thoughts about test.
 
 ## Test Pyramid
 
@@ -21,7 +21,7 @@ Also e2e test is not easy to write, especially for web application e2e test, a d
 
 And it's very hard to maintain, once the interface changed or feature changed, the test and scenario all need to rewrite/fix.
 
-On the other end, the unit tests, they are all tiny and focus on only a block of function. So they can run very fast, and usually can write more unit test than other tests.
+On the other end, the [unit test](https://en.wikipedia.org/wiki/Unit_testing), they are all tiny and focus on only a block of function. So they can run very fast, and usually can write more unit test than other tests.
 
 ## Socilable or Solitary
 
