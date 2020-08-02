@@ -134,7 +134,7 @@ short_bio: Software Developer
 - <p style="
     display: flex;
     justify-content: space-between;
-"><a href="https://coursera.org/share/e62af85052f4e0ce03d93a564cb060b0" target="_blank">Machine Learning Course Certificate</a> <i>Coursera</i></p>
+"><a href="https://coursera.org/share/e62af85052f4e0ce03d93a564cb060b0" target="_blank">Machine Learning Course Completed Certificate</a> <i>Stanford | Coursera</i></p>
 
 - <p style="
     display: flex;
