@@ -14,10 +14,10 @@ NodeJs is single thread, and also non-blocking, how it works? Let's create a `ht
 
 With NodeJS, it's super easy to start a http server, just need to use `http` libary to cal `createServer` on it.
 
-```js
-const http = require('http');
-const port = 3000;
-http.createServer((request, response) => {}).listen(port);
+```javascript
+  const http = require('http');
+  const port = 3000;
+  http.createServer((request, response) => {}).listen(port);
 ```
 
 The above code will start a service and listen on port: 3000.
@@ -26,24 +26,24 @@ The first parameter of `createServer` it's a callback function, which you can se
 
 There are 2 things to highlight here:
 
-1. It's a callback, which very comman in NodeJs
+### It's a callback, which very comman in NodeJs
 
-  Why a lot places in NodeJs are using this, and why it's recommanded to use? It's actually related to the `[event loop](https://en.wikipedia.org/wiki/Event_loop)` implementatino in NodeJs, and by this pattern, it make NodeJs application/service most efficient.
+Why a lot places in NodeJs are using this, and why it's recommanded to use? It's actually related to the [event loop](https://en.wikipedia.org/wiki/Event_loop) implementatino in NodeJs, and by this pattern, it make NodeJs application/service most efficient.
 
-2. The parameter `request` and `response` are implemented from `Stream`
+### The parameter `request` and `response` are implemented from `Stream`
 
-  This two parameters are implement from Stream, and Stream in NodeJs are also implemented from `EventEmiiter`, it's quite important because I understand this as the basic unit of NodeJs event driven system, how the `EventEmitter` looks like, check follow code block:
+This two parameters are implement from Stream, and Stream in NodeJs are also implemented from `EventEmiiter`, it's quite important because I understand this as the basic unit of NodeJs event driven system, how the `EventEmitter` looks like, check follow code block:
 
-  ```js
-  const EventEmitter = require('events');
-  class DemoEmitter extends EventEmitter {}
+```js
+const EventEmitter = require('events');
+class DemoEmitter extends EventEmitter {}
 
-  const demoEmitter = new DemoEmitter();
-  demoEmitter.on('xing', () => {console.log('Event happened!')});
-  demoEmitter.emit('xing');
-  ```
+const demoEmitter = new DemoEmitter();
+demoEmitter.on('xing', () => {console.log('Event happened!')});
+demoEmitter.emit('xing');
+```
 
-  Yes, there's callback again.
+Yes, there's callback again.
 
 ## NodeJs application is single thread
 
