@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to create vscode extension"
+title:  "Create vscode extension"
 author: "Will Xing"
 categories:
   - javascript
