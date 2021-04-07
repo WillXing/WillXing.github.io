@@ -3,7 +3,7 @@ title: Xing Huang
 layout: about
 profile_pic: "./assets/images/avatar.jpg"
 profile_pic_alt: ""
-short_bio: Software Developer
+short_bio: Senior Software Developer
 ---
 
 <p style="
@@ -20,14 +20,37 @@ short_bio: Software Developer
   </i>
 </p>
 
-7 years experienced full-stack software developer; Solid skills on infrastructure building, service/application developing from end to end; Demonstrated fast learner able to adapt and deliver value with different stack; Collaborative team player with the can-do attitude and good communication skills; Good understanding of agile, TDD and DevOps.
+Full-stack software developer with more than 7 years experience; Solid skills on infrastructure building, service/application developing from end to end; Demonstrated fast learner able to adapt and deliver value with different stack; Strong curiosity and hunger for learning; Collaborative team player with the can-do attitude and good communication skills; Contribute with good understanding of agile, TDD and DevOps.
 
 ## Experience
 
 <h4 style="
     display: flex;
     justify-content: space-between;
-"><span>MYOB</span><i>2018 - present</i></h4>
+">
+  <span>
+    <a style="color: #f78e66 !important;" href='https://www.spark.co.nz/'>Spark</a>
+  </span>
+  <i>2020 - present</i>
+</h4>
+- Develop applications from end to end with <b class="highlight-inline">React.js</b>+<b class="highlight-inline">Redux</b>/<b class="highlight-inline">Node.js</b>.
+- Drive improvement of web app, refactoring code and performance, first contentful paint time decrease <b class="highlight-inline">70%</b>, largest contentful paint time decrease <b class="highlight-inline">22%</b>.
+- Develop others and insit high standard code quality by actively code reviewing, mentoring, sharing.
+- Drive the practice of <b class="highlight-inline">unit test, TDD, CI/CD as code</b> in the team.
+- Shape coding agreement and developement process in the team.
+- Contribute to business and planning decision from technical perspective.
+- <b class="highlight-inline">Customer-oriented</b>, 
+- Quick response and deliver high quality result to <b class="highlight-inline">business as usual</b>.
+
+<h4 style="
+    display: flex;
+    justify-content: space-between;
+">
+  <span>
+    <a style="color: #f78e66 !important;" href='https://www.myob.com/nz'>MYOB</a>
+  </span>
+  <i>2018 - 2020</i>
+</h4>
 - Develop applications from end to end with <b class="highlight-inline">React.js</b>+<b class="highlight-inline">Redux</b>/<b class="highlight-inline">C#</b>.
 - Use <b class="highlight-inline">AWS</b> build and maintain the infrastructure of projects.
 - Deploy and maintain application with <b class="highlight-inline">Kubernetes</b>.
@@ -44,7 +67,12 @@ short_bio: Software Developer
 <h4 style="
     display: flex;
     justify-content: space-between;
-"><span>ThoughtWorks</span><i>2015 - 2018</i></h4>
+">
+  <span>
+    <a style="color: #f78e66 !important;" href='https://www.thoughtworks.com/'>ThoughtWorks</a>
+  </span>
+  <i>2015 - 2018</i>
+</h4>
 - As an outsourcing company, I got chances to work on different projects and stacks.
 - Working on Australia big financial group’s project, building web application with <b class="highlight-inline">Java Springboot</b> and <b class="highlight-inline">AngularJS</b>.
 - Build release information board with <b class="highlight-inline">React.js</b>.
@@ -56,7 +84,12 @@ short_bio: Software Developer
 <h4 style="
     display: flex;
     justify-content: space-between;
-"><span>Ubisoft</span><i>2013 - 2015</i></h4>
+">
+  <span>
+    <a style="color: #f78e66 !important;" href='https://www.ubisoft.com/'>Ubisoft</a>
+  </span>
+  <i>2013 - 2015</i>
+</h4>
 - Work on a <b class="highlight-inline">business intelligence</b> project
 - Develop dynamic web dashboard applications with <b class="highlight-inline">jQuery</b> and <b class="highlight-inline">PHP</b>.
 - Use <b class="highlight-inline">Scala</b> to build streaming processing pipe on <b class="highlight-inline">Spark</b>.
